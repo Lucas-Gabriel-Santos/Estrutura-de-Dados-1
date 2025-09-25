@@ -12,5 +12,6 @@ BublleSort:
 Contagem de Caracteres Recursiva:
 
 Compilação da atividade usando o MakeFile:
-Para a complição desta atividade, foi usada o Makefile com os seguintes comandos: mingw32-make ou mingw32-take.exe
+Para a complição desta atividade, foi usada o Makefile com os seguintes comandos: mingw32-make ou mingw32-take.exe.                    
+
 Os dois comando são Utilizáveis para a compilação.
